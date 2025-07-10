@@ -6,9 +6,8 @@ Shape Tracer is an accessibility-first iOS app built with SwiftUI that enables u
 
 ### Demo Link
 [View Demo Video](https://drive.google.com/file/d/1DQsdEm-c9sbZxJwjUEr51Fdm_p6_-PO4/view?usp=drive_link)
-
-<img width="1170" height="2532" alt="Circle" src="https://github.com/user-attachments/assets/6558e341-3764-4715-8e2b-6601bbeb3edf" />
-<img width="1170" height="2532" alt="Square" src="https://github.com/user-attachments/assets/2d35fe9f-fbdc-4a7b-a2b8-8878786b70e1" />
+<img src="https://github.com/user-attachments/assets/0827d777-cebb-4bb1-b2fb-dfbf71fc71b0" width="500"/>
+<img src="https://github.com/user-attachments/assets/b5a84a00-b12a-40f2-bbb9-8a4d72468544" width="500"/>
 
 ### Key Features
 
